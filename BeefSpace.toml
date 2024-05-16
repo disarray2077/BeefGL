@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {BeefGL = {Path = "."}, "BeefGL.Sample" = {Path = "Sample"}, SDL2 = "*"}
+
+[Workspace]
+StartupProject = "BeefGL.Sample"

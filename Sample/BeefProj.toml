@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", BeefGL = "*", SDL2 = "*"}
+
+[Project]
+Name = "BeefGL.Sample"
+StartupObject = "BeefGL.Sample.Program"
