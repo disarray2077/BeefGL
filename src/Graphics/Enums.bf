@@ -8735,6 +8735,7 @@ namespace BeefGL.Graphics
     /// </summary>
     public enum BeginMode : int32
     {
+		/*
         /// <summary>
         /// Original was GL_Points = 0X0000
         /// </summary>
@@ -8763,6 +8764,7 @@ namespace BeefGL.Graphics
         /// Original was GL_TriangleFan = 0X0006
         /// </summary>
         TriangleFan = ((int32)0X0006),
+		*/
     }
 
     /// <summary>
@@ -9067,6 +9069,7 @@ namespace BeefGL.Graphics
     /// </summary>
     public enum BufferUsage : int32
     {
+		/*
         /// <summary>
         /// Original was GL_StreamDraw = 0X88e0
         /// </summary>
@@ -9079,6 +9082,7 @@ namespace BeefGL.Graphics
         /// Original was GL_DynamicDraw = 0X88e8
         /// </summary>
         DynamicDraw = ((int32)0X88e8),
+		*/
     }
 
     /// <summary>
@@ -20718,6 +20722,7 @@ namespace BeefGL.Graphics
     /// </summary>
     public enum ProgramParameter : int32
     {
+		/*
         /// <summary>
         /// Original was GL_PROGRAM_BINARY_RETRIEVABLE_HINT = 0x8257
         /// </summary>
@@ -20758,6 +20763,7 @@ namespace BeefGL.Graphics
         /// Original was GL_ACTIVE_ATTRIBUTE_MAX_LENGTH = 0x8B8A
         /// </summary>
         ActiveAttributeMaxLength = ((int32)0x8B8A),
+		*/
     }
 
     /// <summary>
